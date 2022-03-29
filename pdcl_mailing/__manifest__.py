@@ -10,5 +10,8 @@
         "security/ir.model.access.csv",
         "wizard/mail_list_select_view.xml",
     ],
+'images': ['static/description/banner.png'],
+
+
     "installable": True,
 }
