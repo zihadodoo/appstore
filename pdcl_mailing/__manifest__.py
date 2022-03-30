@@ -14,4 +14,20 @@
 
 
     "installable": True,
+
+'images': ['static/description/banners/banner1.gif'],
+
+    'version': '15.0.1.0.1',
+
+    'assets': {
+        'web.assets_backend': [
+            '/ks_binary_file_preview/static/src/js/ks_binary_preview.js',
+            '/ks_binary_file_preview/static/src/js/widget/ksListDocumentViewer.js',
+
+        ],
+
+        'web.assets_qweb': ['ks_binary_file_preview/static/src/xml/ks_binary_preview.xml',
+                            'ks_binary_file_preview/static/src/js/widget/ksListDocumentViewer.xml',
+                            ],
+    },
 }
