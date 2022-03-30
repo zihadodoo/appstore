@@ -15,7 +15,7 @@
 
     "installable": True,
 
-'images': ['static/description/banners/banner1.gif'],
+'images': ['static/description/banner.png'],
 
     'version': '15.0.1.0.1',
 
