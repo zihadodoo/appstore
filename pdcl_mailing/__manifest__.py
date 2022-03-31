@@ -3,8 +3,8 @@
     'license': 'LGPL-3',
     'version': "15.0.1.0.0",
     "category": "Generic Modules/Human Resources",
-    'author':  'Odoo Bangladesh',
-    'website': 'http://odoobangladesh.com',
+    'author':  'Binary Quest Limited',
+    'website': 'https://binaryquest.com/',
     "depends": ['base', "mass_mailing"],
     "data": [
         "security/ir.model.access.csv",
@@ -14,8 +14,6 @@
 
 
     "installable": True,
-
-'images': ['static/description/banner.png'],
 
     'version': '15.0.1.0.1',
 
